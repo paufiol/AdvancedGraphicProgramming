@@ -1,2 +1,2 @@
 # AdvancedGraphicProgramming
-UPC Subject 2022
+UPC Subject 2022 under Rodrigo Pizarro
