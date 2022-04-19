@@ -1,0 +1,24 @@
+﻿  engine.cpp
+  platform.cpp
+C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\Code\platform.cpp(42,36): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\Code\platform.cpp(43,36): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\Code\platform.cpp(44,29): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\Code\platform.cpp(45,29): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Generando código...
+  Engine.vcxproj -> C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\x64\Debug\Engine.exe
