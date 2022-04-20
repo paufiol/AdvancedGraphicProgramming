@@ -28,6 +28,7 @@ struct Texture
     std::string filepath;
 };
 
+//Wrapper for shader.glsl 
 struct Program
 {
     GLuint             handle;
@@ -35,6 +36,13 @@ struct Program
     std::string        programName;
     u64                lastWriteTimestamp; // What is this for?
 };
+
+struct VertexV3V2
+{
+    glm::vec3 pos;
+    glm::vec2 uv;
+};
+
 
 enum Mode
 {
