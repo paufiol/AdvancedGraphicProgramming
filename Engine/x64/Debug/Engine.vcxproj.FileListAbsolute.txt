@@ -1,2 +1,0 @@
-C:\Users\rodrigopl2\Downloads\EngineTemplate\Engine\x64\Debug\Engine.exe
-C:\Users\paufl1\Documents\GitHub\AdvancedGraphicProgramming\Engine\x64\Debug\Engine.exe
